@@ -6,7 +6,8 @@ Neural Network Spring 2022 Project
 1. [Requirements](#1-requirements)
 2. [Dataset](#2-dataset)
 3. [Model Architecture](#3-model-architecture)
-4. [References](#4-references)
+4. [Notebook](#4-note-book)
+5. [References](#4-references)
 
 ## 1. Requirements
 
@@ -26,9 +27,7 @@ Required libraries for Python along with their version numbers used while making
 	<li>Tensorflow - 1.13.1</li>
 	<li>Keras - 2.2.4</li>
 	<li>nltk - 3.2.5</li>
-	<li>PIL - 4.3.0</li>
 	<li>Matplotlib - 3.0.3</li>
-	<li>tqdm - 4.28.1</li>
 </ul>
 
 ## 2. Dataset
@@ -40,9 +39,14 @@ Required libraries for Python along with their version numbers used while making
 </ul>
 
 ## 3. Model Architecture
-<img width="50%" src="https://github.com/dabasajay/Image-Caption-Generator/raw/master/test_data/bikestunt.jpg" alt="Image 1">
+<img width="100%" src="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/model.png" alt="Image 1">
 
-## 4. References
+## 4. Notebook
+<ul type="square">
+	<li><a href="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/Image%20Captioning.ipynb">Our Notebook</a></li>
+
+
+## 5. References
 
 <ul type="square">
 	<li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf">Show and Tell: A Neural Image Caption Generator</a> - Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan</li>
