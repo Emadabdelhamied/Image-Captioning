@@ -44,6 +44,7 @@ Required libraries for Python along with their version numbers used while making
 ## 4. Notebook
 <ul type="square">
 	<li><a href="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/Image%20Captioning.ipynb">Our Notebook</a></li>
+</ul>
 
 
 ## 5. References
