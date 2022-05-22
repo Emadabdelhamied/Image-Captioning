@@ -6,8 +6,8 @@ Neural Network Spring 2022 Project
 1. [Requirements](#1-requirements)
 2. [Dataset](#2-dataset)
 3. [Model Architecture](#3-model-architecture)
-4. [Notebook](#4-note-book)
-5. [References](#4-references)
+4. [Notebook](#4-notebook)
+5. [References](#5-references)
 
 ## 1. Requirements
 
