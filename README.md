@@ -7,8 +7,9 @@ Neural Network Spring 2022 Project
 2. [Dataset](#2-dataset)
 3. [Model Architecture](#3-model-architecture)
 4. [Notebook](#4-notebook)
-5. [Project Video](#5-project-video)
-6. [References](#6-references)
+5. [Project Report](#5-project-report)
+6. [Project Video](#6-project-video)
+7. [References](#7-references)
 
 ## 1. Requirements
 
@@ -49,12 +50,17 @@ Required libraries for Python along with their version numbers used while making
 	<li><a href="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/Image%20Captioning.ipynb">Our Notebook</a></li>
 </ul>
 
-## 5. Project Video
+## 6. Project Report
+<ul type="square">
+	<li><a href="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/proposalNN.pdf">Project Report</a></li>
+</ul>
+
+## 6. Project Video
 <ul type="square">
 	<li><a href="https://youtu.be/AZWMINMCNZ8">Our Project</a></li>
 </ul>
 
-## 6. References
+## 7. References
 
 <ul type="square">
 	<li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf">Show and Tell: A Neural Image Caption Generator</a> - Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan</li>
