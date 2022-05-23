@@ -50,7 +50,7 @@ Required libraries for Python along with their version numbers used while making
 	<li><a href="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/Image%20Captioning.ipynb">Our Notebook</a></li>
 </ul>
 
-## 6. Project Report
+## 5. Project Report
 <ul type="square">
 	<li><a href="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/proposalNN.pdf">Project Report</a></li>
 </ul>
