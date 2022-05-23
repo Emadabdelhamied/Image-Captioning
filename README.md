@@ -40,6 +40,8 @@ Required libraries for Python along with their version numbers used while making
 
 ## 3. Model Architecture
 <img width="100%" src="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/model.png" alt="Image 1">
+<img width="100%" src="https://github.com/Emadabdelhamied/Image-Captioning/blob/main/model%20(1).png" alt="Image 1">
+
 
 ## 4. Notebook
 <ul type="square">
